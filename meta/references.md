@@ -27,7 +27,7 @@
   * Frank Meinl ([modified version](http://www.crytek.com/cryengine/cryengine3/downloads)) [[CC BY 3.0 License](https://creativecommons.org/licenses/by/3.0/)],
   * Morgan McGuire ([updated version](http://g3d.cs.williams.edu/g3d/data10/index.html)) [[CC BY 3.0 License](https://creativecommons.org/licenses/by/3.0/)],
   * Matthias Moulin (updated version),
-  * Alexandre Pestana ([updated version for metalness workflow](http://www.alexandre-pestana.com/pbr-textures-sponza/)),
+  * Alexandre Pestana ([updated version for metalness workflow](http://www.alexandre-pestana.com/pbr-textures-sponza/)) [Free License],
   * Matthias Moulin (updated version).
   
 * Skull:
