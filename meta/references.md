@@ -18,6 +18,10 @@
 
 ### Models
 
+* Blacksmith:
+  * [Daniel Andersson](https://www.blendswap.com/user/Daniel74) ([original version](https://www.blendswap.com/blends/view/75729)) [[License](https://creativecommons.org/publicdomain/zero/1.0/)],
+  * Matthias Moulin (updated version). 
+
 * Crytek Sponza:
   * Marko Dabrovic (original version),
   * Frank Meinl (modified version, [data](http://www.crytek.com/cryengine/cryengine3/downloads)),
@@ -39,6 +43,10 @@
   * Kenzie Lamar (updated version),
   * Morgan McGuire ([data](http://graphics.cs.williams.edu/data/meshes.xml)),
   * Matthias Moulin (updated version).
+  
+* Windmill
+  * [Michal Hagrid Ahedov](http://ahedov.blogspot.be/) ([original version](https://www.blendswap.com/blends/view/69174)) [[License](https://creativecommons.org/licenses/by-sa/3.0/)],
+  * Matthias Moulin (updated version). 
   
 ### Textures
   
