@@ -19,13 +19,13 @@
 ### Models
 
 * Blacksmith:
-  * [Daniel Andersson](https://www.blendswap.com/user/Daniel74) ([original version](https://www.blendswap.com/blends/view/75729)) [[License](https://creativecommons.org/publicdomain/zero/1.0/)],
+  * [Daniel Andersson](https://www.blendswap.com/user/Daniel74) ([original version](https://www.blendswap.com/blends/view/75729)) [[CC 0 License](https://creativecommons.org/publicdomain/zero/1.0/)],
   * Matthias Moulin (updated version). 
 
 * Crytek Sponza:
-  * Marko Dabrovic (original version),
-  * Frank Meinl ([modified version](http://www.crytek.com/cryengine/cryengine3/downloads)),
-  * Morgan McGuire ([updated version](http://g3d.cs.williams.edu/g3d/data10/index.html)),
+  * Marko Dabrovic ([original version](http://g3d.cs.williams.edu/g3d/data10/index.html)) [CC BY-NC License](https://creativecommons.org/licenses/by-nc/3.0/us/),
+  * Frank Meinl ([modified version](http://www.crytek.com/cryengine/cryengine3/downloads)) [CC BY 3.0 License](https://creativecommons.org/licenses/by/3.0/),
+  * Morgan McGuire ([updated version](http://g3d.cs.williams.edu/g3d/data10/index.html)) [CC BY 3.0 License](https://creativecommons.org/licenses/by/3.0/),
   * Matthias Moulin (updated version),
   * Alexandre Pestana ([updated version for metalness workflow](http://www.alexandre-pestana.com/pbr-textures-sponza/)),
   * Matthias Moulin (updated version).
@@ -35,16 +35,16 @@
   * Matthias Moulin (updated version).
   
 * Trees
-  * [killst4r](https://www.turbosquid.com/Search/Artists/killst4r) ([original version](https://www.turbosquid.com/3d-models/free-obj-mode-tree-pack/506851)) [[License](https://blog.turbosquid.com/royalty-free-license/)],
+  * [killst4r](https://www.turbosquid.com/Search/Artists/killst4r) ([original version](https://www.turbosquid.com/3d-models/free-obj-mode-tree-pack/506851)) [[TurboSquid Royalty Free License License](https://blog.turbosquid.com/royalty-free-license/)],
   * Matthias Moulin (updated version).
   
 * Utah Teapot: 
   * Martin Newell (original version),
-  * Kenzie Lamar ([updated version](http://g3d.cs.williams.edu/g3d/data10/index.html)) [[License](https://creativecommons.org/share-your-work/public-domain/cc0/)],
+  * Kenzie Lamar ([updated version](http://g3d.cs.williams.edu/g3d/data10/index.html)) [[CC 0 License](https://creativecommons.org/share-your-work/public-domain/cc0/)],
   * Matthias Moulin (updated version).
   
 * Windmill
-  * [Michal Hagrid Ahedov](http://ahedov.blogspot.be/) ([original version](https://www.blendswap.com/blends/view/69174)) [[License](https://creativecommons.org/licenses/by-sa/3.0/)],
+  * [Michal Hagrid Ahedov](http://ahedov.blogspot.be/) ([original version](https://www.blendswap.com/blends/view/69174)) [[CC BY-SA License](https://creativecommons.org/licenses/by-sa/3.0/)],
   * Matthias Moulin (updated version). 
   
 ### Textures
@@ -54,7 +54,7 @@
   
 * Logo
   * [J. Lantta](https://raakile.deviantart.com/) ([original version](http://www.deviantart.com/art/Black-Mage-356147620))
-[[License](https://creativecommons.org/licenses/by-nc-nd/3.0/)]
+[[CC BY-NC-ND License](https://creativecommons.org/licenses/by-nc-nd/3.0/)]
 
 ## Contributors
 * Matthias Moulin
