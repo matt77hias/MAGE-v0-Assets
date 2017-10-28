@@ -24,8 +24,8 @@
 
 * Crytek Sponza:
   * Marko Dabrovic (original version),
-  * Frank Meinl (modified version, [data](http://www.crytek.com/cryengine/cryengine3/downloads)),
-  * Morgan McGuire (updated version, [data](http://graphics.cs.williams.edu/data/meshes.xml)),
+  * Frank Meinl ([modified version](http://www.crytek.com/cryengine/cryengine3/downloads)),
+  * Morgan McGuire ([updated version](http://graphics.cs.williams.edu/data/meshes.xml)),
   * Matthias Moulin (updated version),
   * Alexandre Pestana (updated version for metalness workflow, [data](http://www.alexandre-pestana.com/pbr-textures-sponza/)),
   * Matthias Moulin (updated version).
@@ -35,7 +35,7 @@
   * Matthias Moulin (updated version).
   
 * Trees
-  * [killst4r](https://www.turbosquid.com/3d-models/free-obj-mode-tree-pack/506851) (original version),
+  * [killst4r](https://www.turbosquid.com/Search/Artists/killst4r) ([original version](https://www.turbosquid.com/3d-models/free-obj-mode-tree-pack/506851)) [[License](https://blog.turbosquid.com/royalty-free-license/)],
   * Matthias Moulin (updated version).
   
 * Utah Teapot: 
