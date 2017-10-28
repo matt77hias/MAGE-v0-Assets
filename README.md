@@ -3,7 +3,7 @@
 [![License][s1]][li] [![Join the chat at https://gitter.im/WickedEngine/Lobby][s2]][gi]
 <a href="https://twitter.com/intent/follow?screen_name=matt77hias"><img src="https://img.shields.io/twitter/follow/matt77hias.svg?style=social" alt="follow on Twitter"></a>
 
-[s1]: https://img.shields.io/badge/licence-No%20Licence-blue.svg
+[s1]: https://img.shields.io/badge/license-GPL%203.0-blue.svg
 [s2]: https://badges.gitter.im/MatthiasAdvancedGameEngine/Lobby.svg
 
 [li]: https://raw.githubusercontent.com/matt77hias/MAGE-Assets/master/LICENSE.txt
