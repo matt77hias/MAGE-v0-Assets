@@ -25,7 +25,7 @@
 * Crytek Sponza:
   * Marko Dabrovic (original version),
   * Frank Meinl ([modified version](http://www.crytek.com/cryengine/cryengine3/downloads)),
-  * Morgan McGuire ([updated version](http://graphics.cs.williams.edu/data/meshes.xml)),
+  * Morgan McGuire ([updated version](http://g3d.cs.williams.edu/g3d/data10/index.html)),
   * Matthias Moulin (updated version),
   * Alexandre Pestana ([updated version for metalness workflow](http://www.alexandre-pestana.com/pbr-textures-sponza/)),
   * Matthias Moulin (updated version).
@@ -40,8 +40,7 @@
   
 * Utah Teapot: 
   * Martin Newell (original version),
-  * Kenzie Lamar (updated version),
-  * Morgan McGuire ([data](http://graphics.cs.williams.edu/data/meshes.xml)),
+  * Kenzie Lamar ([updated version](http://g3d.cs.williams.edu/g3d/data10/index.html)) [[License](https://creativecommons.org/share-your-work/public-domain/cc0/),
   * Matthias Moulin (updated version).
   
 * Windmill
