@@ -5,7 +5,7 @@
 ### BibTeX
 
 ```bibtex
-@misc{mage17,
+@misc{mage-assets17,
    author = {Matthias Moulin},
    title  = {MAGE - Matthias Advanced Game Engine - Assets},
    year   = {2017},
