@@ -7,10 +7,10 @@
 ```bibtex
 @misc{mage17,
    author = {Matthias Moulin},
-   title  = {MAGE - Matthias Advanced Game Engine},
+   title  = {MAGE - Matthias Advanced Game Engine - Assets},
    year   = {2017},
-   url    = {https://github.com/matt77hias/MAGE},
-   note   = {https://github.com/matt77hias/MAGE}
+   url    = {https://github.com/matt77hias/MAGE-Assets},
+   note   = {https://github.com/matt77hias/MAGE-Assets}
 }
 ```
 
