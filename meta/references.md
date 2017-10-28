@@ -53,7 +53,9 @@
 * Sky:
   * Turánszki János
   
-* [Logo](http://www.deviantart.com/art/Black-Mage-356147620) [[License](https://creativecommons.org/licenses/by-nc-nd/3.0/)]
+* Logo
+  * [J. Lantta](https://raakile.deviantart.com/) ([original version](http://www.deviantart.com/art/Black-Mage-356147620))
+[[License](https://creativecommons.org/licenses/by-nc-nd/3.0/)]
 
 ## Contributors
 * Matthias Moulin
