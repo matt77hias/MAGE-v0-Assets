@@ -1,0 +1,4 @@
+mtllib tree1b_lod2.mtl
+s default root none 0 0
+s bark root bark 0 735
+s leaves root leaves 735 876

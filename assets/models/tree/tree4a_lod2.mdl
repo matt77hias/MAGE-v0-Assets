@@ -1,0 +1,4 @@
+mtllib tree4a_lod2.mtl
+s default root none 0 0
+s bark root bark 0 1854
+s leaves root leaves 1854 1788

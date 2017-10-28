@@ -1,0 +1,7 @@
+newmtl bark
+	texture_base_color textures\bark1.dds
+	texture_normal textures\bark1_normal.dds
+
+newmtl leaves
+	transparent
+	texture_base_color textures\leaves1.dds

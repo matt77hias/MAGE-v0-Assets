@@ -1,0 +1,183 @@
+newmtl arch
+	base_color 0.5880 0.5880 0.5880
+	roughness 1.0
+	texture_base_color textures\sponza_arch_base.dds
+	texture_material textures\sponza_arch_material.dds
+	texture_normal textures\sponza_arch_normal.dds
+
+newmtl bricks
+	base_color 0.5880 0.5880 0.5880
+	roughness 1.0
+	texture_base_color textures\sponza_bricks_base.dds
+	texture_material textures\sponza_bricks_material.dds
+	texture_normal textures\sponza_bricks_normal.dds
+
+newmtl ceiling
+	base_color 0.5880 0.5880 0.5880
+	texture_base_color textures\sponza_ceiling_base.dds
+	texture_material textures\sponza_ceiling_material.dds
+	texture_normal textures\sponza_ceiling_normal.dds
+
+newmtl chain
+	transparent
+	base_color 0.5880 0.5880 0.5880
+	roughness 1.0
+	metalness 1.0
+	texture_base_color textures\chain_base.dds
+	texture_material textures\chain_material.dds
+	texture_normal textures\chain_normal.dds
+
+newmtl column_a
+	base_color 0.5880 0.5880 0.5880
+	roughness 1.0
+	texture_base_color textures\sponza_column_a_base.dds
+	texture_material textures\sponza_column_a_material.dds
+	texture_normal textures\sponza_column_a_normal.dds
+
+newmtl column_b
+	base_color 0.5880 0.5880 0.5880
+	roughness 1.0
+	texture_base_color textures\sponza_column_b_base.dds
+	texture_material textures\sponza_column_b_material.dds
+	texture_normal textures\sponza_column_b_normal.dds
+
+newmtl column_c
+	base_color 0.5880 0.5880 0.5880
+	roughness 1.0
+	texture_base_color textures\sponza_column_c_base.dds
+	texture_material textures\sponza_column_c_material.dds
+	texture_normal textures\sponza_column_c_normal.dds
+
+newmtl details
+	base_color 0.5880 0.5880 0.5880
+	roughness 1.0
+	metalness 1.0
+	texture_base_color textures\sponza_details_base.dds
+	texture_material textures\sponza_details_material.dds
+	texture_normal textures\sponza_details_normal.dds
+
+newmtl fabric_a
+	base_color 0.5880 0.5880 0.5880
+	roughness 1.0
+	metalness 1.0
+	texture_base_color textures\sponza_fabric_red_base.dds
+	texture_material textures\sponza_fabric_material.dds
+	texture_normal textures\sponza_fabric_red_normal.dds
+
+newmtl fabric_c
+	base_color 0.5880 0.5880 0.5880
+	roughness 1.0
+	metalness 1.0
+	texture_base_color textures\sponza_curtain_red_base.dds
+	texture_material textures\sponza_curtain_material.dds
+	texture_normal textures\sponza_curtain_red_normal.dds
+	
+newmtl fabric_d
+	base_color 0.5880 0.5880 0.5880
+	roughness 1.0
+	metalness 1.0
+	texture_base_color textures\sponza_fabric_blue_base.dds
+	texture_material textures\sponza_fabric_material.dds
+	texture_normal textures\sponza_fabric_blue_normal.dds
+	
+newmtl fabric_e
+	base_color 0.5880 0.5880 0.5880
+	roughness 1.0
+	metalness 1.0
+	texture_base_color textures\sponza_fabric_green_base.dds
+	texture_material textures\sponza_fabric_material.dds
+	texture_normal textures\sponza_fabric_green_normal.dds
+
+newmtl fabric_f
+	base_color 0.5880 0.5880 0.5880
+	roughness 1.0
+	metalness 1.0
+	texture_base_color textures\sponza_curtain_green_base.dds
+	texture_material textures\sponza_curtain_material.dds
+	texture_normal textures\sponza_curtain_green_normal.dds
+
+newmtl fabric_g
+	base_color 0.5880 0.5880 0.5880
+	roughness 1.0
+	metalness 1.0
+	texture_base_color textures\sponza_curtain_blue_base.dds
+	texture_material textures\sponza_curtain_material.dds
+	texture_normal textures\sponza_curtain_blue_normal.dds
+
+newmtl flagpole
+	base_color 0.5880 0.5880 0.5880
+	roughness 1.0
+	metalness 1.0
+	texture_base_color textures\sponza_flagpole_base.dds
+	texture_material textures\sponza_flagpole_material.dds
+	texture_normal textures\sponza_flagpole_normal.dds
+	
+newmtl floor
+	base_color 0.5880 0.5880 0.5880
+	roughness 1.0
+	texture_base_color textures\sponza_floor_base.dds
+	texture_material textures\sponza_floor_material.dds
+	texture_normal textures\sponza_floor_normal.dds
+
+newmtl leaf
+	transparent
+	base_color 0.5880 0.5880 0.5880
+	roughness 1.0
+	texture_base_color textures\sponza_thorn_base.dds
+	texture_material textures\sponza_thorn_material.dds
+	texture_normal textures\sponza_thorn_normal.dds
+	
+newmtl lion
+	base_color 0.5880 0.5880 0.5880
+	roughness 1.0
+	texture_base_color textures\lion_base.dds
+	texture_material textures\lion_material.dds
+	texture_normal textures\lion_normal.dds
+	
+newmtl lion_back
+	base_color 0.5880 0.5880 0.5880
+	roughness 1.0
+	texture_base_color textures\lion_back_base.dds
+	texture_material textures\lion_back_material.dds
+	texture_normal textures\lion_back_normal.dds
+	
+newmtl plaque
+	base_color 0.5880 0.5880 0.5880
+	roughness 1.0
+
+newmtl roof
+	base_color 0.5880 0.5880 0.5880
+	roughness 1.0
+	texture_base_color textures\sponza_roof_base.dds
+	texture_material textures\sponza_roof_material.dds
+	texture_normal textures\sponza_roof_normal.dds
+	
+newmtl vase
+	base_color 0.5880 0.5880 0.5880
+	roughness 1.0
+	texture_base_color textures\vase_base.dds
+	texture_material textures\vase_material.dds
+	texture_normal textures\vase_normal.dds
+	
+newmtl vase_hanging
+	base_color 0.5880 0.5880 0.5880
+	roughness 1.0
+	metalness 1.0
+	texture_base_color textures\vase_hanging_base.dds
+	texture_material textures\vase_hanging_material.dds
+	texture_normal textures\vase_hanging_normal.dds
+	
+newmtl vase_plant
+	transparent
+	base_color 0.5880 0.5880 0.5880
+	roughness 1.0
+	texture_base_color textures\vase_plant_base.dds
+	texture_material textures\vase_plant_material.dds
+	texture_normal textures\vase_plant_normal.dds
+
+newmtl vase_round
+	base_color 0.5880 0.5880 0.5880
+	roughness 1.0
+	texture_base_color textures\vase_round_base.dds
+	texture_material textures\vase_round_material.dds
+	texture_normal textures\vase_round_normal.dds

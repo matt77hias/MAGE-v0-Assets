@@ -1,0 +1,4 @@
+mtllib windmill.mtl
+s default root none 0 0
+s windmill_blades root windmill_blades 0 2928
+s windmill_building root windmill_building 2928 18948
