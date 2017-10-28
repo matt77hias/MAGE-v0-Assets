@@ -40,7 +40,7 @@
   
 * Utah Teapot: 
   * Martin Newell (original version),
-  * Kenzie Lamar ([updated version](http://g3d.cs.williams.edu/g3d/data10/index.html)) [[License](https://creativecommons.org/share-your-work/public-domain/cc0/),
+  * Kenzie Lamar ([updated version](http://g3d.cs.williams.edu/g3d/data10/index.html)) [[License](https://creativecommons.org/share-your-work/public-domain/cc0/)],
   * Matthias Moulin (updated version).
   
 * Windmill
