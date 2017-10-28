@@ -19,3 +19,8 @@
 <p align="center"><img src="https://github.com/matt77hias/MAGE/blob/master/res/Example.png"></p>
 
 The assets of [MAGE](https://github.com/matt77hias/MAGE).
+
+## Index
+* [References](meta/references.md)
+
+<p align="center">Copyright © 2016-2017 Matthias Moulin. All Rights Reserved.</p>
