@@ -1,0 +1,17 @@
+mtllib sibenik.mtl
+s default root none 0 0
+s sibenik_0 root wall 0 100242
+s sibenik_1 root ceiling 100242 336
+s sibenik_2 root floor 100578 753
+s sibenik_3 root window_bar 101331 26352
+s sibenik_4 root wall_window 127683 4806
+s sibenik_5 root wall_balustrade 132489 240
+s sibenik_6 root window_red 132729 1443
+s sibenik_7 root window_green 134172 720
+s sibenik_8 root window_clear 134892 5157
+s sibenik_9 root wall_outside 140049 22944
+s sibenik_10 root window_blue 162993 720
+s sibenik_11 root window_yellow 163713 240
+s sibenik_12 root rosette 163953 15426
+s sibenik_13 root floor_tapestry 179379 1581
+s sibenik_14 root column 180960 44889

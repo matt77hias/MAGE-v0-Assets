@@ -1,0 +1,62 @@
+newmtl ceiling
+	base_color 0.734118 0.730588 0.674118
+	texture_base_color textures\bricks_base.dds
+    texture_normal textures\bricks_normal.dds
+
+newmtl column
+	base_color 0.734118 0.730588 0.674118
+	texture_base_color textures\wall_base.dds
+	
+newmtl floor
+	base_color 0.734118 0.709412 0.674118
+	texture_base_color textures\marble_base.dds
+	texture_normal textures\marble_normal.dds
+
+newmtl floor_tapestry
+	base_color 0.546274 0.219608 0.183922	
+	
+newmtl rosette
+	base_color 0.734118 0.730588 0.674118
+	texture_base_color textures\wall_base.dds
+	
+newmtl wall
+	base_color 0.734118 0.730588 0.674118
+	texture_base_color textures\bricks_base.dds
+    texture_normal textures\bricks_normal.dds
+	
+newmtl wall_balustrade
+	base_color 0.734118 0.730588 0.674118
+	texture_base_color textures\wall_base.dds
+	
+newmtl wall_outside
+	base_color 0.734118 0.730588 0.674118
+	texture_base_color textures\bricks_base.dds
+    texture_normal textures\bricks_normal.dds
+	
+newmtl wall_window
+	base_color 0.734118 0.730588 0.674118
+	texture_base_color textures\bricks_base.dds
+    texture_normal textures\bricks_normal.dds
+	
+newmtl window_bar
+	base_color 0.784314 0.784314 0.784314
+	
+newmtl window_blue
+	transparent
+	base_color 0.082353 0.145098 0.784314 0.8
+	
+newmtl window_clear
+	transparent
+	base_color 0 0 0 0.5
+	
+newmtl window_green
+	transparent
+	base_color  0.066667 0.631373 0.074510 0.8
+
+newmtl window_red
+	transparent
+	base_color 0.441176 0.103922 0.049020 0.8
+	
+newmtl window_yellow
+	transparent
+	base_color 1.000000 0.890196 0.007843 0.8
