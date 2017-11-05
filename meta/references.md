@@ -34,6 +34,12 @@
   * Frank D. Luna (original version),
   * Matthias Moulin (updated version).
   
+* Sibenik (Cathedral):
+  * Marko Dabrovic (original version),
+  * Kenzie Lamar (updated version),
+  * Morgan McGuire ([updated version](http://g3d.cs.williams.edu/g3d/data10/index.html)) [[CC BY-NC License](https://creativecommons.org/licenses/by-nc/2.0/)],
+  * Matthias Moulin (updated version).
+  
 * Trees
   * [killst4r](https://www.turbosquid.com/Search/Artists/killst4r) ([original version](https://www.turbosquid.com/3d-models/free-obj-mode-tree-pack/506851)) [[TurboSquid Royalty Free License License](https://blog.turbosquid.com/royalty-free-license/)],
   * Matthias Moulin (updated version).
