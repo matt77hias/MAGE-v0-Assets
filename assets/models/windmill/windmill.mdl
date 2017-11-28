@@ -1,4 +1,3 @@
 mtllib windmill.mtl
-s default root none 0 0
-s windmill_blades root windmill_blades 0 2928
-s windmill_building root windmill_building 2928 18948
+s windmill_blades root 0.179469 0.133899 -0.000000 0.000000 0.000000 0.000000 0.732214 0.732214 0.732214 windmill_blades 0 2928
+s windmill_building root -0.023528 -0.077567 -0.028958 0.000000 0.000000 0.000000 0.844866 0.844866 0.844866 windmill_building 2928 7038
