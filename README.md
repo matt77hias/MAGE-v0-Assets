@@ -1,6 +1,6 @@
-<img align="left" src="https://github.com/matt77hias/MAGE/blob/master/res/MAGE.png" width="120px"/>
+<img align="left" src="https://github.com/matt77hias/MAGE-Meta/blob/master/res/MAGE.png" width="120px"/>
 
-[![License][s1]][li] [![Join the chat at https://gitter.im/WickedEngine/Lobby][s2]][gi]
+[![License][s1]][li] [![Join the chat][s2]][gi]
 <a href="https://twitter.com/intent/follow?screen_name=matt77hias"><img src="https://img.shields.io/twitter/follow/matt77hias.svg?style=social" alt="follow on Twitter"></a>
 
 [s1]: https://img.shields.io/badge/license-GPL%203.0-blue.svg
@@ -12,7 +12,7 @@
 # MAGE-Assets
 
 ## About
-<p align="center"><img src="https://github.com/matt77hias/MAGE/blob/master/res/Example.png"></p>
+<p align="center"><img src="https://github.com/matt77hias/MAGE-Meta/blob/master/res/Example.png"></p>
 
 The assets of [MAGE](https://github.com/matt77hias/MAGE).
 
