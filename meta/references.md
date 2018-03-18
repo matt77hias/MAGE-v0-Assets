@@ -49,6 +49,10 @@
   * Kenzie Lamar ([updated version](http://g3d.cs.williams.edu/g3d/data10/index.html)) [[CC 0 License](https://creativecommons.org/share-your-work/public-domain/cc0/)],
   * Matthias Moulin (updated version).
   
+* Vokselia
+  * Eric Haines et al. (original version) [[CC BY 3.0 License](https://creativecommons.org/licenses/by/3.0/)]
+  * Matthias Moulin (updated version).
+  
 * Windmill
   * [Michal Hagrid Ahedov](http://ahedov.blogspot.be/) ([original version](https://www.blendswap.com/blends/view/69174)) [[CC BY-SA License](https://creativecommons.org/licenses/by-sa/3.0/)],
   * Matthias Moulin (updated version). 
