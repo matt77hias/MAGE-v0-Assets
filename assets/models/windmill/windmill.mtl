@@ -1,9 +1,9 @@
 newmtl windmill_blades
 	base_color 0.8 0.8 0.8
-	texture_base_color textures\blades_base.dds
-	texture_normal textures\blades_normal.dds
+	texture_base_color textures/blades_base.dds
+	texture_normal textures/blades_normal.dds
 
 newmtl windmill_building
 	base_color 0.8 0.8 0.8
-	texture_base_color textures\building_base.dds
-	texture_normal textures\building_normal.dds
+	texture_base_color textures/building_base.dds
+	texture_normal textures/building_normal.dds

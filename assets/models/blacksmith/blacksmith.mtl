@@ -1,103 +1,103 @@
 newmtl Bark
 	base_color 0.099602 0.099602 0.099602
-	texture_base_color textures\Bark.jpg
+	texture_base_color textures/Bark.jpg
 
 newmtl Brick
 	base_color 0.64 0.64 0.64
-	texture_base_color textures\GreyBricks.jpg
+	texture_base_color textures/GreyBricks.jpg
 
 newmtl BrownLeather
 	base_color 0.64 0.64 0.64
-	texture_base_color textures\BrownLeather.jpg
+	texture_base_color textures/BrownLeather.jpg
 
 newmtl ChoppedWood
 	base_color 0.64 0.64 0.64
-	texture_base_color textures\ChoppedWood.jpg
+	texture_base_color textures/ChoppedWood.jpg
 
 newmtl Coal
 	base_color 0.64 0.010513 0.020951
-	texture_base_color textures\Lava.jpg
+	texture_base_color textures/Lava.jpg
 
 newmtl DoorType1_2
 	base_color 0.64 0.64 0.64
-	texture_base_color textures\DoorType1_1.jpg
+	texture_base_color textures/DoorType1_1.jpg
 
 newmtl GreyBrick
 	base_color 0.64 0.64 0.64
-	texture_base_color textures\GreyBricks.jpg
+	texture_base_color textures/GreyBricks.jpg
 
 newmtl GreyBrick2
 	base_color 0.64 0.64 0.64
-	texture_base_color textures\GreyBricks2.jpg
+	texture_base_color textures/GreyBricks2.jpg
 
 newmtl GreyStone2
 	base_color 0.64 0.64 0.64
-	texture_base_color textures\GreyStone2.jpg
+	texture_base_color textures/GreyStone2.jpg
 
 newmtl HotIron
 	base_color 0.64 0.64 0.64
-	texture_base_color textures\WroughtIronHot.jpg
+	texture_base_color textures/WroughtIronHot.jpg
 
 newmtl Iron
 	base_color 0.64 0.64 0.64
-	texture_base_color textures\Iron.jpg
+	texture_base_color textures/Iron.jpg
 
 newmtl LogEdge
 	base_color 0.64 0.64 0.64
-	texture_base_color textures\TreeLogEdge.jpg
+	texture_base_color textures/TreeLogEdge.jpg
 
 newmtl LogEdgeWeathered
 	base_color 0.64 0.64 0.64
-	texture_base_color textures\TreeLogEdgeWeathered.jpg
+	texture_base_color textures/TreeLogEdgeWeathered.jpg
 
 newmtl LogEdgeWeathered_Wood.jpg
 	base_color 0.64 0.64 0.64
-	texture_base_color textures\Wood.jpg
+	texture_base_color textures/Wood.jpg
 
 newmtl LogEdgeWeathered_Wood.jpg.002
 	base_color 0.64 0.64 0.64
-	texture_base_color textures\Wood.jpg
+	texture_base_color textures/Wood.jpg
 
 newmtl OakBark
 	base_color 0.099602 0.099602 0.099602
-	texture_base_color textures\OakBark.jpg
+	texture_base_color textures/OakBark.jpg
 
 newmtl Plaster
 	base_color 0.64 0.64 0.64
-	texture_base_color textures\PlasterLarge.jpg
+	texture_base_color textures/PlasterLarge.jpg
 
 newmtl RoofTiles
 	base_color 0.64 0.64 0.64
-	texture_base_color textures\RoofTiles.jpg
+	texture_base_color textures/RoofTiles.jpg
 
 newmtl RustedMetal
 	base_color 0.64 0.64 0.64
-	texture_base_color textures\Rusted_Metal.jpg
+	texture_base_color textures/Rusted_Metal.jpg
 
 newmtl RustedMetal_Rusted_Metal.jpg.001
 	base_color 0.64 0.64 0.64
-	texture_base_color textures\Rusted_Metal.jpg
+	texture_base_color textures/Rusted_Metal.jpg
 
 newmtl Sandstone
 	base_color 0.64 0.64 0.64
-	texture_base_color textures\Sandstone.jpg
+	texture_base_color textures/Sandstone.jpg
 
 newmtl Stone
 	base_color 0.64 0.64 0.64
-	texture_base_color textures\Stone.jpg
+	texture_base_color textures/Stone.jpg
 
 newmtl WindowBlue1
 	base_color 0.64 0.64 0.64
-	texture_base_color textures\WindowBlue1.jpg
+	texture_base_color textures/WindowBlue1.jpg
 
 newmtl WindowBlue2
 	base_color 0.64 0.64 0.64
-	texture_base_color textures\WindowsBlue2.jpg
+	texture_base_color textures/WindowsBlue2.jpg
 
 newmtl Wood
 	base_color 0.64 0.64 0.64
-	texture_base_color textures\Wood.jpg
+	texture_base_color textures/Wood.jpg
 
 newmtl WroughtIron
 	base_color 0.152073 0.152073 0.152073
-	texture_base_color textures\WroughtIron.jpg
+	texture_base_color textures/WroughtIron.jpg
