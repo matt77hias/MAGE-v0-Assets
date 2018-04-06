@@ -19,7 +19,7 @@ def normalize_image(fname):
             
     cv2.imwrite(fname, img_out)
     
-def normalize_directory(directory='C:/Users/Matthias/Desktop/normal'):
+def normalize_directory(directory):
     for dir_path, dir_names, file_names in os.walk(directory):
         for file_name in file_names:
             fname = os.path.join(dir_path, file_name)
