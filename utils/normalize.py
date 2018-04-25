@@ -13,7 +13,7 @@ def normalize_image(fname):
     img_out = np.zeros(img_in.shape)
     # [0.0, 1.0]^3
     img_in  = img_in.astype(np.float64) / 255.0
-    # [0.0, 1.0]x[-1.0, 1.0]x[-1.0, 1.0] BGR
+    # [0.0, 1.0]x[-1.0, 1.0]x[-1.0, 1.0] (BGR)
     img_in[:,:,1:] = 2.0 * img_in[:,:,1:] - 1.0
 
     height, width, _ = img_in.shape

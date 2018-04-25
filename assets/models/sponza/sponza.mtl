@@ -62,7 +62,7 @@ newmtl fabric_a
 	metalness 1.0
 	texture_base_color textures/sponza_fabric_red_base.dds
 	texture_material textures/sponza_fabric_material.dds
-	texture_normal textures/sponza_fabric_red_normal.dds
+	texture_normal textures/sponza_fabric_normal.dds
 
 newmtl fabric_c
 	base_color 0.5880 0.5880 0.5880
@@ -70,7 +70,7 @@ newmtl fabric_c
 	metalness 1.0
 	texture_base_color textures/sponza_curtain_red_base.dds
 	texture_material textures/sponza_curtain_material.dds
-	texture_normal textures/sponza_curtain_red_normal.dds
+	texture_normal textures/sponza_curtain_normal.dds
 	
 newmtl fabric_d
 	base_color 0.5880 0.5880 0.5880
@@ -78,7 +78,7 @@ newmtl fabric_d
 	metalness 1.0
 	texture_base_color textures/sponza_fabric_blue_base.dds
 	texture_material textures/sponza_fabric_material.dds
-	texture_normal textures/sponza_fabric_blue_normal.dds
+	texture_normal textures/sponza_fabric_normal.dds
 	
 newmtl fabric_e
 	base_color 0.5880 0.5880 0.5880
@@ -86,7 +86,7 @@ newmtl fabric_e
 	metalness 1.0
 	texture_base_color textures/sponza_fabric_green_base.dds
 	texture_material textures/sponza_fabric_material.dds
-	texture_normal textures/sponza_fabric_green_normal.dds
+	texture_normal textures/sponza_fabric_normal.dds
 
 newmtl fabric_f
 	base_color 0.5880 0.5880 0.5880
@@ -94,7 +94,7 @@ newmtl fabric_f
 	metalness 1.0
 	texture_base_color textures/sponza_curtain_green_base.dds
 	texture_material textures/sponza_curtain_material.dds
-	texture_normal textures/sponza_curtain_green_normal.dds
+	texture_normal textures/sponza_curtain_normal.dds
 
 newmtl fabric_g
 	base_color 0.5880 0.5880 0.5880
@@ -102,7 +102,7 @@ newmtl fabric_g
 	metalness 1.0
 	texture_base_color textures/sponza_curtain_blue_base.dds
 	texture_material textures/sponza_curtain_material.dds
-	texture_normal textures/sponza_curtain_blue_normal.dds
+	texture_normal textures/sponza_curtain_normal.dds
 
 newmtl flagpole
 	base_color 0.5880 0.5880 0.5880
