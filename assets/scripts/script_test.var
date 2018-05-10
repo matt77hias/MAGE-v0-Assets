@@ -1,13 +1,18 @@
 # comment
 
-bool 	a_true_bool	true
+bool 	a_true_bool		true
 bool 	a_false_bool	false
-int	a_int		1
-int2	a_int2		2 3
-int3	a_int3		4 5 6
-float	a_float		1.01
-float2	a_float2	2.02 3.03
-float3	a_float3	4.04 5.05 6.06
-float4	a_float4	7.07 8.08 9.09 10.10
-string	a_string	"\"The quick brown fox jumps over the lazy dog\"."
-string	a_string2	"The quick brown fox jumps over the lazy dog."
+F32	 	a_F32			1.01
+F32x2 	a_F32x2			2.02 3.03
+F32x3 	a_F32x3			4.04 5.05 6.06
+F32x4 	a_F32x4			7.07 8.08 9.09 10.10
+S32   	a_S32			-1
+S32x2 	a_S32x2			-2 -3
+S32x3 	a_S32x3			-4 -5 -6
+S32x4 	a_S32x4			-7 -8 -9 -10
+U32   	a_U32			1
+U32x2 	a_U32x2			2 3
+U32x3 	a_U32x3			4 5 6
+U32x4 	a_U32x4			7 8 9 10
+string	a_string		"\"The quick brown fox jumps over the lazy dog\"."
+string	a_string2		"The quick brown fox jumps over the lazy dog."
