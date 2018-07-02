@@ -25,7 +25,7 @@
 * Crytek Sponza:
   * Marko Dabrovic ([original version](http://g3d.cs.williams.edu/g3d/data10/index.html)) [[CC BY-NC License](https://creativecommons.org/licenses/by-nc/3.0/us/)],
   * Frank Meinl ([modified version](http://www.crytek.com/cryengine/cryengine3/downloads)) [[CC BY 3.0 License](https://creativecommons.org/licenses/by/3.0/)],
-  * Morgan McGuire ([updated version](http://g3d.cs.williams.edu/g3d/data10/index.html)) [[CC BY 3.0 License](https://creativecommons.org/licenses/by/3.0/)],
+  * Morgan McGuire ([updated version](https://casual-effects.com/data)) [[CC BY 3.0 License](https://creativecommons.org/licenses/by/3.0/)],
   * Matthias Moulin (updated version),
   * Alexandre Pestana ([updated version for metalness workflow](http://www.alexandre-pestana.com/pbr-textures-sponza/)) [Free License],
   * Matthias Moulin (updated version).
@@ -37,7 +37,7 @@
 * Sibenik (Cathedral):
   * Marko Dabrovic (original version),
   * Kenzie Lamar (updated version),
-  * Morgan McGuire ([updated version](http://g3d.cs.williams.edu/g3d/data10/index.html)) [[CC BY-NC License](https://creativecommons.org/licenses/by-nc/2.0/)],
+  * Morgan McGuire ([updated version](https://casual-effects.com/data)) [[CC BY-NC License](https://creativecommons.org/licenses/by-nc/2.0/)],
   * Matthias Moulin (updated version).
   
 * Trees
