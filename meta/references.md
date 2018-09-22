@@ -5,10 +5,10 @@
 ### BibTeX
 
 ```bibtex
-@misc{mage-assets17,
+@misc{mage-assets18,
    author = {Matthias Moulin},
    title  = {MAGE - Matthias Advanced Game Engine - Assets},
-   year   = {2017},
+   year   = {2018},
    url    = {https://github.com/matt77hias/MAGE-Assets},
    note   = {https://github.com/matt77hias/MAGE-Assets}
 }
