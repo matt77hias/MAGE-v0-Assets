@@ -10,7 +10,7 @@
    title  = {MAGE - Matthias Advanced Game Engine - Assets},
    year   = {2019},
    url    = {https://github.com/matt77hias/MAGE-Assets},
-   note   = {https://github.com/matt77hias/MAGE-Assets}
+   note   = {\url{https://github.com/matt77hias/MAGE-Assets}}
 }
 ```
 
