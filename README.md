@@ -1,7 +1,6 @@
 <img align="left" src="https://github.com/matt77hias/MAGE-Meta/blob/master/res/MAGE.png" width="120px"/>
 
 [![License][license-svg]][license] [![Join the chat][gitter-svg]][gitter]
-<a href="https://twitter.com/intent/follow?screen_name=matt77hias"><img src="https://img.shields.io/twitter/follow/matt77hias.svg?style=social" alt="follow on Twitter"></a>
 
 [license-svg]:       https://img.shields.io/badge/license-GPL%203.0-blue.svg
 [gitter-svg]:        https://badges.gitter.im/mage_dev/community.svg
