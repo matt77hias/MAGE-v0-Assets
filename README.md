@@ -1,13 +1,13 @@
 <img align="left" src="https://github.com/matt77hias/MAGE-Meta/blob/master/res/MAGE.png" width="120px"/>
 
-[![License][s1]][li] [![Join the chat][s2]][gi]
+[![License][license-svg]][license] [![Join the chat][gitter-svg]][gitter]
 <a href="https://twitter.com/intent/follow?screen_name=matt77hias"><img src="https://img.shields.io/twitter/follow/matt77hias.svg?style=social" alt="follow on Twitter"></a>
 
-[s1]: https://img.shields.io/badge/license-GPL%203.0-blue.svg
-[s2]: https://badges.gitter.im/MatthiasAdvancedGameEngine/Lobby.svg
+[license-svg]:       https://img.shields.io/badge/license-GPL%203.0-blue.svg
+[gitter-svg]:        https://badges.gitter.im/MatthiasAdvancedGameEngine/Lobby.svg
 
-[li]: https://raw.githubusercontent.com/matt77hias/MAGE-Assets/master/LICENSE.txt
-[gi]: https://gitter.im/MatthiasAdvancedGameEngine/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
+[license]:           LICENSE.txt
+[gitter]:            https://gitter.im/mage_dev/community
 
 # MAGE-Assets
 
