@@ -4,7 +4,7 @@
 <a href="https://twitter.com/intent/follow?screen_name=matt77hias"><img src="https://img.shields.io/twitter/follow/matt77hias.svg?style=social" alt="follow on Twitter"></a>
 
 [license-svg]:       https://img.shields.io/badge/license-GPL%203.0-blue.svg
-[gitter-svg]:        https://badges.gitter.im/MatthiasAdvancedGameEngine/Lobby.svg
+[gitter-svg]:        https://badges.gitter.im/mage_dev/community.svg
 
 [license]:           LICENSE.txt
 [gitter]:            https://gitter.im/mage_dev/community
