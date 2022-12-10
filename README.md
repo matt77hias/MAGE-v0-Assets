@@ -8,7 +8,7 @@
 [license]:           LICENSE.txt
 [gitter]:            https://gitter.im/mage_dev/community
 
-# MAGE-Assets
+# MAGE v0 - Assets
 
 ## About
 <p align="center"><img src="https://github.com/matt77hias/MAGE-v0-Meta/blob/master/res/Example.png"></p>
