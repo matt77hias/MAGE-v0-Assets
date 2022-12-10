@@ -5,7 +5,7 @@
 ### BibTeX
 
 ```bibtex
-@misc{mage-v0-assets19,
+@misc{mage-v0-assets:2019,
    author = {Matthias Moulin},
    title  = {MAGE v0 - Assets},
    year   = {2019},
