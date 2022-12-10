@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/matt77hias/MAGE-Meta/blob/master/res/MAGE.png" width="120px"/>
+<img align="left" src="https://github.com/matt77hias/MAGE-v0-Meta/blob/master/res/MAGE.png" width="120px"/>
 
 [![License][license-svg]][license] [![Join the chat][gitter-svg]][gitter]
 
@@ -11,12 +11,12 @@
 # MAGE-Assets
 
 ## About
-<p align="center"><img src="https://github.com/matt77hias/MAGE-Meta/blob/master/res/Example.png"></p>
+<p align="center"><img src="https://github.com/matt77hias/MAGE-v0-Meta/blob/master/res/Example.png"></p>
 
-The assets of [MAGE](https://github.com/matt77hias/MAGE).
+The assets of [MAGE v0](https://github.com/matt77hias/MAGE-v0).
 
 ## Index
-* [File Formats](https://github.com/matt77hias/MAGE/tree/master/MAGE/Meta/FileFormats.md)
+* [File Formats](https://github.com/matt77hias/MAGE-v0/tree/master/MAGE/Meta/FileFormats.md)
 * [References](meta/references.md)
 
 <p align="center">Copyright © 2016-2023 Matthias Moulin. All Rights Reserved.</p>
