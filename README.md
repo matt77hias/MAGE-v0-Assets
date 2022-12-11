@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/matt77hias/MAGE-v0-Meta/blob/master/res/MAGE.png" width="120px"/>
+<img align="left" src="https://github.com/matt77hias/MAGE-v0-Meta/blob/gh-pages/res/MAGE.png" width="120px"/>
 
 [![License][license-svg]][license] [![Join the chat][gitter-svg]][gitter]
 
@@ -11,7 +11,7 @@
 # MAGE v0 - Assets
 
 ## About
-<p align="center"><img src="https://github.com/matt77hias/MAGE-v0-Meta/blob/master/res/Example.png"></p>
+<p align="center"><img src="https://github.com/matt77hias/MAGE-v0-Meta/blob/gh-pages/res/Example.png"></p>
 
 The assets of [MAGE v0](https://github.com/matt77hias/MAGE-v0).
 
