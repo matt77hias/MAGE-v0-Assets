@@ -5,10 +5,10 @@
 ### BibTeX
 
 ```bibtex
-@misc{mage-v0-assets:2019,
+@misc{mage-v0-assets:2023,
    author = {Matthias Moulin},
    title  = {MAGE v0 - Assets},
-   year   = {2019},
+   year   = {2023},
    url    = {https://github.com/matt77hias/MAGE-v0-Assets},
    note   = {\url{https://github.com/matt77hias/MAGE-v0-Assets}}
 }
