@@ -1,12 +1,10 @@
 <img align="left" src="https://github.com/matt77hias/MAGE-v0-Meta/blob/gh-pages/res/MAGE.png" width="120px"/>
 
-[![License][license-svg]][license] [![Join the chat][gitter-svg]][gitter]
+[![License][license-svg]][license]
 
 [license-svg]:       https://img.shields.io/badge/license-GPL%203.0-blue.svg
-[gitter-svg]:        https://badges.gitter.im/mage_dev/community.svg
 
 [license]:           LICENSE.txt
-[gitter]:            https://gitter.im/mage_dev/community
 
 # MAGE v0 - Assets
 
