@@ -17,4 +17,4 @@ The assets of [MAGE v0](https://github.com/matt77hias/MAGE-v0).
 * [File Formats](https://github.com/matt77hias/MAGE-v0/tree/master/MAGE/Meta/FileFormats.md)
 * [References](meta/references.md)
 
-<p align="center">Copyright © 2016-2024 Matthias Moulin. All Rights Reserved.</p>
+<p align="center">Copyright © 2016-2025 Matthias Moulin. All Rights Reserved.</p>
